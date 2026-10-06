@@ -15,4 +15,11 @@ https://github.com/Klerith/fernando-skills
 npx skills@latest add Klerith/fernando-skills
 ```
 
-Hola Mundo
+## Commands
+
+```bash
+npm run dev     # dev server (next dev)
+npm run build   # production build
+npm run start   # serve the production build
+npm run lint    # ESLint 9 flat config (next core-web-vitals + typescript)
+```

@@ -10,14 +10,7 @@ Arcade Vault is a retro arcade game portal where users play browser games and co
 
 Work follows **Spec Driven Design** using the `/spec` and `/spec-impl` skills from [Klerith/fernando-skills](https://github.com/Klerith/fernando-skills) (`npx skills@latest add Klerith/fernando-skills`).
 
-## Commands
 
-```bash
-npm run dev     # dev server (next dev)
-npm run build   # production build
-npm run start   # serve the production build
-npm run lint    # ESLint 9 flat config (next core-web-vitals + typescript)
-```
 
 No test runner is configured yet. Imports use the `@/*` alias, which maps to the repo root (there is no `src/`).
 
